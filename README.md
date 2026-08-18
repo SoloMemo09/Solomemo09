@@ -32,5 +32,5 @@ I enjoy bridging the gap between development and security, building optimized pl
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Solomemo09&theme=highcontrast)](https://git.io/streak-stats)
 
-Check this!: https://jobmemo.tech/
+More info about me: https://jobmemo.tech/
 
